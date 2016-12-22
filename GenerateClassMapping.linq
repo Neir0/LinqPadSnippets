@@ -6,8 +6,6 @@
     <CustomAssemblyPath>D:\Cloud\Cloud-DEV\WebServers\Insurance2\InsuranceWebApi\InsuranceData\bin\Debug\InsuranceData.dll</CustomAssemblyPath>
     <CustomTypeName>InsuranceData.EF.InsuranceDbContext</CustomTypeName>
     <AppConfigPath>D:\Cloud\Cloud-DEV\WebServers\Insurance2\InsuranceWebApi\InsuranceWebApi\Web.config</AppConfigPath>
-    <CustomCxString>Data Source=MC-SQL-CLUSTER1.magaya.com;Initial Catalog=InsuranceDB;Persist Security Info=True;User ID=CIU;Password=P1s@Pr!0riT;Connection Timeout=60;MultipleActiveResultSets=true</CustomCxString>
-    <IsProduction>true</IsProduction>
   </Connection>
   <Namespace>InsuranceData.Models</Namespace>
 </Query>
